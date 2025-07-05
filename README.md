@@ -1,1 +1,1 @@
-# fresh-seafood-market-app
+# fresh-seafood-app
